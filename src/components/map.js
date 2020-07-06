@@ -1,10 +1,10 @@
-import React, { Component } from "react";
+import React from "react";
 import 'ol/ol.css';
 import Feature from 'ol/Feature';
 import Map from 'ol/Map';
 import View from 'ol/View';
 import GeoJSON from 'ol/format/GeoJSON';
-import { Circle, Point } from 'ol/geom';
+import { Point } from 'ol/geom';
 import { Tile as TileLayer, Vector as VectorLayer } from 'ol/layer';
 import { OSM, Vector as VectorSource } from 'ol/source';
 import { Circle as CircleStyle, Fill, Stroke, Style, Icon, RegularShape } from 'ol/style';
@@ -12,8 +12,8 @@ import Overlay from 'ol/Overlay';
 import { toLonLat } from 'ol/proj';
 import { fromLonLat, get } from "ol/proj"
 import { transform } from 'ol/proj';
-import {toStringHDMS} from 'ol/coordinate';
-import Pixel from 'ol/pixel';
+
+
 import outputData from "./output.json"
 
 
@@ -37,29 +37,30 @@ var vectorSource = new VectorSource({
     features: (new GeoJSON()).readFeatures(geojsonObj)
 });
 
-
-
-
 outputData.forEach((el) => {
   var x = el.geometry.coordinates[0]
    var y = el.geometry.coordinates[1]
+   console.log(el)
    var iconFeature = new Feature({
         geometry: new Point(transform([x, y], 'EPSG:4326', 'EPSG:3857')),
         name: 'Marker ',
-        "properties": { SPC: parseFloat(el.Specific_capacity)}
+        "properties": { SPC: parseFloat(el.properties.Specific_capacity)}
+        
         
     });
+    console.log( iconFeature)
     vectorSource.addFeature(iconFeature);
+    console.log( vectorSource)
 })
 
 function getStyleSpfCon(feature) {
     return new Style({
         image: new CircleStyle({
-            radius: feature.get("properties").SPC*10,
+            radius: feature.get("properties").SPC/2,
             fill: new Fill({
-                color: 'rgba(0, 0, 255, 0.3)'
+                color: 'rgba(0, 0, 255, 1)'
             }),
-            stroke: new Stroke({ color: 'rgba(0, 0,255, 0.3)', width: 1 })
+            stroke: new Stroke({ color: 'rgba(0, 0,255, 1)', width: 1 })
         })
     });
 }
@@ -83,12 +84,12 @@ var map = new Map({
         new TileLayer({
             source: new OSM()
         }),
-        vectorLayerForSpfCon
+       
     ],
     target: 'map',
     view: new View({
         center: fromLonLat([34.84, 36.85]),
-        zoom: 11
+        zoom: 12
     })
 });
 
