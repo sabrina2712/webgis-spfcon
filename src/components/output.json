@@ -1,0 +1,565 @@
+[
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7110245752, 36.8430520892 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W281",
+			"X_UTM_(m)": "652559",
+			"Y_UTM_(m)": "4078828",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "18.6",
+			"Specific_capacity": "6.0",
+			"Date (dd/mm/yy)": "10/21/57"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.715521553, 36.8460608741 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W282",
+			"X_UTM_(m)": "652954",
+			"Y_UTM_(m)": "4079169",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "17.3",
+			"Period": "Pumping duration 2.5 hours",
+			"Specific_capacity": "1.3",
+			"Date (dd/mm/yy)": "10/15/61"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7320463678, 36.8462898944 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W283",
+			"X_UTM_(m)": "654427",
+			"Y_UTM_(m)": "4079221",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "15.9",
+			"Specific_capacity": "5.0",
+			"Date (dd/mm/yy)": "12/9/62"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7320463678, 36.8462898944 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W283",
+			"X_UTM_(m)": "654427",
+			"Y_UTM_(m)": "4079221",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "15.9",
+			"Specific_capacity": "5.0",
+			"Date (dd/mm/yy)": "12/9/62"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7320463678, 36.8462898944 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W283",
+			"X_UTM_(m)": "654427",
+			"Y_UTM_(m)": "4079221",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "15.9",
+			"Specific_capacity": "5.0",
+			"Date (dd/mm/yy)": "12/9/62"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7320463678, 36.8462898944 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W283",
+			"X_UTM_(m)": "654427",
+			"Y_UTM_(m)": "4079221",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "15.9",
+			"Specific_capacity": "4.8",
+			"Date (dd/mm/yy)": "12/9/62"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.9118827991, 36.8776118423 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W284",
+			"X_UTM_(m)": "670393",
+			"Y_UTM_(m)": "4083002",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "10.0",
+			"Specific_capacity": "12.3",
+			"Date (dd/mm/yy)": "11/12/62"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.9118827991, 36.8776118423 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W284",
+			"X_UTM_(m)": "670393",
+			"Y_UTM_(m)": "4083002",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "10.0",
+			"Specific_capacity": "3.7",
+			"Date (dd/mm/yy)": "11/12/62"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.9118827991, 36.8776118423 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W284",
+			"X_UTM_(m)": "670393",
+			"Y_UTM_(m)": "4083002",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "10.0",
+			"Specific_capacity": "3.9",
+			"Date (dd/mm/yy)": "11/12/62"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.9118827991, 36.8776118423 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W284",
+			"X_UTM_(m)": "670393",
+			"Y_UTM_(m)": "4083002",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "10.0",
+			"Specific_capacity": "4.5",
+			"Date (dd/mm/yy)": "11/12/62"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.9240417593, 36.8390373048 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W285",
+			"X_UTM_(m)": "671563",
+			"Y_UTM_(m)": "4078744",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.0",
+			"Specific_capacity": "0.5",
+			"Date (dd/mm/yy)": "10/21/62"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.9240417593, 36.8390373048 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W285",
+			"X_UTM_(m)": "671563",
+			"Y_UTM_(m)": "4078744",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.0",
+			"Specific_capacity": "0.7",
+			"Date (dd/mm/yy)": "10/21/62"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.9240417593, 36.8390373048 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W285",
+			"X_UTM_(m)": "671563",
+			"Y_UTM_(m)": "4078744",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.0",
+			"Specific_capacity": "0.6",
+			"Date (dd/mm/yy)": "10/21/62"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.9240417593, 36.8390373048 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W285",
+			"X_UTM_(m)": "671563",
+			"Y_UTM_(m)": "4078744",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.0",
+			"Specific_capacity": "0.7",
+			"Date (dd/mm/yy)": "10/21/62"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.8530413552, 36.8596613611 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W286",
+			"X_UTM_(m)": "665187",
+			"Y_UTM_(m)": "4080907",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.0",
+			"Specific_capacity": "20.3",
+			"Date (dd/mm/yy)": "10/20/62"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7547370422, 36.8228554804 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W287",
+			"X_UTM_(m)": "656498",
+			"Y_UTM_(m)": "4076658",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.0",
+			"Specific_capacity": "8.6",
+			"Date (dd/mm/yy)": "1/14/63"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7547370422, 36.8228554804 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W287",
+			"X_UTM_(m)": "656498",
+			"Y_UTM_(m)": "4076658",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.0",
+			"Specific_capacity": "7.0",
+			"Date (dd/mm/yy)": "1/14/63"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7547370422, 36.8228554804 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W287",
+			"X_UTM_(m)": "656498",
+			"Y_UTM_(m)": "4076658",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.0",
+			"Specific_capacity": "6.2",
+			"Date (dd/mm/yy)": "1/14/63"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7547370422, 36.8228554804 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W287",
+			"X_UTM_(m)": "656498",
+			"Y_UTM_(m)": "4076658",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.0",
+			"Specific_capacity": "5.5",
+			"Date (dd/mm/yy)": "1/14/63"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7822080578, 36.8510013726 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W288",
+			"X_UTM_(m)": "658890",
+			"Y_UTM_(m)": "4079826",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "10.0",
+			"Specific_capacity": "0.1",
+			"Date (dd/mm/yy)": "2/12/63"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.8028992768, 36.8179795797 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W289",
+			"X_UTM_(m)": "660804",
+			"Y_UTM_(m)": "4076197",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "4.2",
+			"Period": "Pumping duration 2.5 hours",
+			"Specific_capacity": "1.1",
+			"Date (dd/mm/yy)": "6/22/63"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.8226471472, 36.8503519705 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W290",
+			"X_UTM_(m)": "662497",
+			"Y_UTM_(m)": "4079822",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "9.8",
+			"Period": "Pumping duration 24 hours",
+			"Specific_capacity": "2.5",
+			"Date (dd/mm/yy)": "6/12/63"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.8795980313, 36.8745848157 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W291",
+			"X_UTM_(m)": "667522",
+			"Y_UTM_(m)": "4082609",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "8.6",
+			"Period": "Pumping duration 6 hours",
+			"Specific_capacity": "11.5",
+			"Date (dd/mm/yy)": "6/21/63"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.8234931884, 36.8807590262 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W292",
+			"X_UTM_(m)": "662508",
+			"Y_UTM_(m)": "4083197",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "25.0",
+			"Period": "Pumping duration 24 hours",
+			"Specific_capacity": "0.1",
+			"Date (dd/mm/yy)": "5/11/63"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.709109241, 36.8260260239 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W293",
+			"X_UTM_(m)": "652422",
+			"Y_UTM_(m)": "4076936",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "10.1",
+			"Period": "Pumping duration 24 hours",
+			"Specific_capacity": "5.0",
+			"Date (dd/mm/yy)": "7/2/69"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7094462542, 36.8195043746 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W294",
+			"X_UTM_(m)": "652465",
+			"Y_UTM_(m)": "4076213",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.0",
+			"Period": "Pumping duration 27 hours",
+			"Specific_capacity": "1.2",
+			"Date (dd/mm/yy)": "1/2/69"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.711603044, 36.8217087036 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W295",
+			"X_UTM_(m)": "652653",
+			"Y_UTM_(m)": "4076461",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.0",
+			"Period": "Pumping duration 23 hours",
+			"Specific_capacity": "7.6",
+			"Date (dd/mm/yy)": "1/7/68"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7111162389, 36.8240141687 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W296",
+			"X_UTM_(m)": "652605",
+			"Y_UTM_(m)": "4076716",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.4",
+			"Period": "Pumping duration 12 hours",
+			"Specific_capacity": "19.7",
+			"Date (dd/mm/yy)": "12/30/69"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7063267313, 36.8274540859 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W297",
+			"X_UTM_(m)": "652171",
+			"Y_UTM_(m)": "4077090",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "10.0",
+			"Period": "Pumping duration 24 hours",
+			"Specific_capacity": "5.3",
+			"Date (dd/mm/yy)": "6/23/69"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7465107357, 36.8298899859 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W298",
+			"X_UTM_(m)": "655750",
+			"Y_UTM_(m)": "4077425",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "7.0",
+			"Period": "Pumping duration 12 hours",
+			"Specific_capacity": "5.2",
+			"Date (dd/mm/yy)": "2/12/71"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.753495662, 36.8288858 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W299",
+			"X_UTM_(m)": "656375",
+			"Y_UTM_(m)": "4077325",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.0",
+			"Period": "Pumping duration 12 hours",
+			"Specific_capacity": "4.9",
+			"Date (dd/mm/yy)": "2/23/71"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.8554496025, 36.8140433345 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W300",
+			"X_UTM_(m)": "665500",
+			"Y_UTM_(m)": "4075850",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "2.5",
+			"Period": "Pumping duration 12 hours",
+			"Specific_capacity": "3.2",
+			"Date (dd/mm/yy)": "9/27/71"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.8550136114, 36.8099130011 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W301",
+			"X_UTM_(m)": "665470",
+			"Y_UTM_(m)": "4075391",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "2.5",
+			"Period": "Pumping duration 12 hours",
+			"Specific_capacity": "4.1",
+			"Date (dd/mm/yy)": "10/8/71"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7532030036, 36.8288360359 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W302",
+			"X_UTM_(m)": "656349",
+			"Y_UTM_(m)": "4077319",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.0",
+			"Specific_capacity": "2.4",
+			"Date (dd/mm/yy)": "5/31/73"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7398022437, 36.8198391481 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W303",
+			"X_UTM_(m)": "655172",
+			"Y_UTM_(m)": "4076299",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.0",
+			"Specific_capacity": "3.0",
+			"Date (dd/mm/yy)": "7/28/75"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.8880760687, 36.9099714617 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W304",
+			"X_UTM_(m)": "668200",
+			"Y_UTM_(m)": "4086550",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "15.0",
+			"Specific_capacity": "51.9",
+			"Date (dd/mm/yy)": "5/1/79"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7528504978, 36.8620198155 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W305",
+			"X_UTM_(m)": "656250",
+			"Y_UTM_(m)": "4081000",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "29.1",
+			"Specific_capacity": "0.1",
+			"Date (dd/mm/yy)": "5/9/88"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7411507925, 36.8283912564 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W306",
+			"X_UTM_(m)": "655275",
+			"Y_UTM_(m)": "4077250",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "7.1",
+			"Specific_capacity": "10.9",
+			"Date (dd/mm/yy)": "11/8/88"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.77028325, 36.8640147331 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W307",
+			"X_UTM_(m)": "657800",
+			"Y_UTM_(m)": "4081250",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "25.7",
+			"Specific_capacity": "2.7",
+			"Date (dd/mm/yy)": "4/6/90"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.8234911935, 36.8136364998 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W308",
+			"X_UTM_(m)": "662650",
+			"Y_UTM_(m)": "4075750",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "1.0",
+			"Specific_capacity": "7.8",
+			"Date (dd/mm/yy)": "8/6/96"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.9289392255, 36.8228512623 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W309",
+			"X_UTM_(m)": "672036",
+			"Y_UTM_(m)": "4076957",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "5.0",
+			"Period": "Pumping duration 6 hours",
+			"Specific_capacity": "0.7",
+			"Date (dd/mm/yy)": "9/2/68"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": { "type": "Point", "coordinates": [ 34.7819865192, 36.8728531926 ] },
+		"properties": {
+			"Code-Medsal": "TAR_W310",
+			"X_UTM_(m)": "658825",
+			"Y_UTM_(m)": "4082250",
+			"Projection": "WGS 84 UTM Zone 36N",
+			"Z_(m)": "40.0",
+			"Period": "Pumping duration 72 hours",
+			"Specific_capacity": "0.0",
+			"Date (dd/mm/yy)": "8/18/86"
+		}
+	}
+]
+
